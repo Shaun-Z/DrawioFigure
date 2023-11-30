@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T06:32:49.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YoOrPP1aIw19rnvNWNyc" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T07:13:16.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="K16mbeXJRax9pUuOViXz" version="22.1.5" type="github">
   <diagram name="Page-1" id="lstI_QHoVGvQYEMmkvc0">
     <mxGraphModel dx="2578" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="680" y="510" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-10" value="Hot Water Outlet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="480" y="182" width="150" height="30" as="geometry" />
+          <mxGeometry x="500" y="177" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-16" value="" style="shape=mxgraph.pid.vessels.tank_(covered);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-360" y="295" width="460" height="185" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="-27" y="356" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_av_timer_48px-128.png;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-60" width="60" height="60" as="geometry" />
+          <mxGeometry x="87.5" y="-10" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-32" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-30" y="30" width="70" height="30" as="geometry" />
@@ -79,29 +79,14 @@
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-outline-vol-2/512/water-outline-128.png;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="683" y="640" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="PmdY9xDrZt-xPDeDsAh8-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="150" as="sourcePoint" />
-            <mxPoint x="500" y="-120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="-60" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-46" value="Connector: 3/4 sweat to 3/4 MIP&lt;br style=&quot;font-size: 9px;&quot;&gt;Connector: 3/4 sweat to 1&#39; sweat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="72" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-42" value="Pipe: 3/4 FIP to 3/4 FIP&lt;br style=&quot;font-size: 17px;&quot;&gt;Connector: 3/4 MIP to 3/4 MIP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-170" width="250" height="50" as="geometry" />
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-47" value="Connector: 3/4 MIP to 3/4 MHP&lt;br style=&quot;font-size: 9px;&quot;&gt;Hose: 3/4 MHP to 3/4 FHP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="25" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-43" value="Connector: 3/4 sweat to 3/4 MIP&lt;br style=&quot;font-size: 17px;&quot;&gt;Connector: 3/4 sweat to 1&#39; sweat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="180" y="252" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-46" value="Connector: 3/4 sweat to 3/4 MIP&lt;br style=&quot;font-size: 11px;&quot;&gt;Connector: 3/4 sweat to 1&#39; sweat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="170" y="72" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-47" value="Connector: 3/4 MIP to 3/4 MHP&lt;br&gt;Hose: 3/4 MHP to 3/4 FHP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="170" y="32" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-49" value="Timer Valve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-100" width="140" height="40" as="geometry" />
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-49" value="Timer Valve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="-50" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-50" value="Hose: 3/4 FHP to 3/4 FHP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-190" y="157" width="160" height="30" as="geometry" />
@@ -112,26 +97,41 @@
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-52" value="Connector: 3/4 MHP to 3/4 FIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="290" y="540" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-54" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid2misc.fan;fanType=common;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="275" y="-106" width="80" height="80" as="geometry" />
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-54" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid2misc.fan;fanType=common;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="-40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-55" value="Fan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-140" width="60" height="40" as="geometry" />
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-55" value="Fan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="-90" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/wind-128.png;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=134;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-40" width="70" height="70" as="geometry" />
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/wind-128.png;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=110;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-58" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;fillColor=#bababa;" vertex="1" parent="1">
           <mxGeometry x="460" y="212" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="212" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PmdY9xDrZt-xPDeDsAh8-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="112" width="265" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="PmdY9xDrZt-xPDeDsAh8-24" value="Radiator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-24" value="Radiator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=28;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="142.5" y="157" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-59" value="Submersible Pump" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=20;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-242" y="330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-60" value="Tank" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=28;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-187" y="242" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-61" value="Water Heater" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=22;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="505" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-42" value="Pipe: 3/4 FIP to 3/4 FIP&lt;br style=&quot;font-size: 9px;&quot;&gt;Connector: 3/4 MIP to 3/4 MIP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="177" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PmdY9xDrZt-xPDeDsAh8-43" value="Connector: 3/4 sweat to 3/4 MIP&lt;br style=&quot;font-size: 9px;&quot;&gt;Connector: 3/4 sweat to 1&#39; sweat" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="252" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
