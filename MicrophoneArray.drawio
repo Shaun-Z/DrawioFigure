@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T06:09:16.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g_fCVoxtaY9fTlO7BI_B" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T06:09:22.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B6qMJZ5ZbI6jVr61TqY1" version="22.1.18" type="github">
   <diagram name="Page-1" id="LOawBF8Huj8KaT1qAEuG">
     <mxGraphModel dx="2743" dy="2788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -131,12 +131,6 @@
         </mxCell>
         <mxCell id="WudLFZXg5qCxApTzmOvo-48" value="\(\Delta t \times v\)" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-25;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="616.73" y="319.06" width="20" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="WudLFZXg5qCxApTzmOvo-52" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="572.5" y="560" as="sourcePoint" />
-            <mxPoint x="622.5" y="470" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
