@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T04:21:40.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TOK_vbxKnN2qhY-OKzyz" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T04:30:11.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MIUlnwcyE09kPzAd3Huw" version="22.1.18" type="github">
   <diagram name="Page-1" id="DbH82mUIfItk7bVeHk_2">
-    <mxGraphModel dx="457" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2438" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="mqsz3DLidRVHX6ZRNaVG-17" value="48V" style="labelPosition=center;align=center;shape=mxgraph.electrical.signal_sources.voltage;shadow=0;dashed=0;strokeWidth=1;fontSize=10;html=1;direction=south;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="mqsz3DLidRVHX6ZRNaVG-21" value="Upper System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="mqsz3DLidRVHX6ZRNaVG-21" value="Upper System" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="236" y="-240" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="mqsz3DLidRVHX6ZRNaVG-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#ff0000;strokeWidth=4;" edge="1" parent="1" source="mqsz3DLidRVHX6ZRNaVG-23">
@@ -199,7 +199,7 @@
         <mxCell id="mqsz3DLidRVHX6ZRNaVG-51" value="BMS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1269" y="170" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="mqsz3DLidRVHX6ZRNaVG-53" value="Upper System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="mqsz3DLidRVHX6ZRNaVG-53" value="Upper System" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="995" y="-240" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="mqsz3DLidRVHX6ZRNaVG-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -235,17 +235,17 @@
             <mxPoint x="1304" y="301" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1180" y="280" />
-              <mxPoint x="1280" y="280" />
+              <mxPoint x="1304" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mqsz3DLidRVHX6ZRNaVG-65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.38;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="mqsz3DLidRVHX6ZRNaVG-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1115" y="240" as="sourcePoint" />
-            <mxPoint x="1239" y="301" as="targetPoint" />
+            <mxPoint x="1240" y="301" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1120" y="290" />
-              <mxPoint x="1230" y="290" />
+              <mxPoint x="1240" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -264,7 +264,7 @@
         <mxCell id="mqsz3DLidRVHX6ZRNaVG-70" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mqsz3DLidRVHX6ZRNaVG-71" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;BMS will control the relay inside the Wiring Box to determine if this port will output 48V.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="mqsz3DLidRVHX6ZRNaVG-71" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;BMS will control the relay inside the Wiring Box to determine if this port will output 48V.&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;verticalAlign=top;horizontal=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="214" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mqsz3DLidRVHX6ZRNaVG-73" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
