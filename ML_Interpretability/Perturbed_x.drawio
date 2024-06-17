@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T12:02:16.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RSqFTk_JixEucG6rmz9G" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T12:03:34.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9575KTyOZJMFJq-sLjST" version="24.5.4" type="github">
   <diagram name="Page-1" id="4FVN_9xxOi4hVx7s_OCP">
-    <mxGraphModel dx="2207" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2765" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,7 +285,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eSclHdr8G0gUVWS5hGn5-94" value="Original image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-20" width="220" height="50" as="geometry" />
+          <mxGeometry x="-20" y="118.92" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-RWbOsR32uoqXc888wA2-5" value="\(S\cup \{x_i\}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="470" y="310" width="220" height="50" as="geometry" />
