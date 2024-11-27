@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="oR-FJ84qx2OYOZPKy_yY">
-    <mxGraphModel dx="3250" dy="2452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3065" dy="2140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-5" width="770" height="530" as="geometry" />
         </mxCell>
         <mxCell id="6FaxfomLOik4ktsSc6X6-125" value="&lt;span style=&quot;font-size: 24px; text-wrap: nowrap; font-weight: 700;&quot;&gt;SHAP formula:&lt;/span&gt;&lt;div style=&quot;font-size: 24px; text-wrap: nowrap;&quot;&gt;$$\phi_i(f,x)=\sum_{z^\prime\subseteq x^\prime \backslash\{i\}}\cfrac{\left| z^\prime\right|!(M-\left| z^\prime\right|-1)!}{M!}[f_x(z^\prime\cup \{i\})-f_x(z^\prime)]$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="15" y="-200" width="730" height="160" as="geometry" />
+          <mxGeometry x="-5" y="-200" width="730" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bdSbIlK9flpPJG_2lz9X-133" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1910" width="400" height="380" as="geometry" />
@@ -358,8 +358,8 @@
         <mxCell id="6FaxfomLOik4ktsSc6X6-113" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\(C\)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="6FaxfomLOik4ktsSc6X6-127" vertex="1">
           <mxGeometry x="355" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gTX8j80xW-LrX-WZh9NO-1" value="&lt;b style=&quot;font-size: 24px; text-wrap: nowrap;&quot;&gt;Features:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 24px; text-wrap: nowrap;&quot;&gt;\(M=\{A,B,C\}\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="15" y="-300" width="345" height="60" as="geometry" />
+        <mxCell id="gTX8j80xW-LrX-WZh9NO-1" value="&lt;b style=&quot;font-size: 24px; text-wrap: nowrap;&quot;&gt;Features:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 24px; text-wrap: nowrap;&quot;&gt;\(M=\{A,B,C\}\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="-300" width="345" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
