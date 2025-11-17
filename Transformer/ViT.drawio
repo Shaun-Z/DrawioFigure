@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="zaLS6FBmMZPpjHnwNZpf">
-    <mxGraphModel dx="771" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="850" math="1" shadow="0">
+    <mxGraphModel dx="651" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="850" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1926,14 +1926,17 @@
         <mxCell id="9x2vb-FRnQafB-fUQCOt-158" value="`D_h-1`" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2338" y="250" width="50.24" height="19.76" as="geometry" />
         </mxCell>
-        <mxCell id="Sn_531WdLkp8ACx6Eqpz-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Sn_531WdLkp8ACx6Eqpz-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1145.5" y="539.86" width="355" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="Sn_531WdLkp8ACx6Eqpz-4" value="" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=right;verticalAlign=middle;rounded=0;" vertex="1" parent="Sn_531WdLkp8ACx6Eqpz-5">
+        <mxCell id="Sn_531WdLkp8ACx6Eqpz-4" value="" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=right;verticalAlign=middle;rounded=0;" parent="Sn_531WdLkp8ACx6Eqpz-5" vertex="1">
           <mxGeometry x="120.5" width="220" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="Sn_531WdLkp8ACx6Eqpz-3" value="&lt;span style=&quot;text-align: right; text-wrap-mode: nowrap;&quot;&gt;\(\left[W_Q, W_K, W_V\right]=\left[\left[\ddots\right]_{D\times D} \quad \left[\ddots\right]_{D\times D} \quad \left[\ddots\right]_{D\times D}\right]\)&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="Sn_531WdLkp8ACx6Eqpz-5">
+        <mxCell id="Sn_531WdLkp8ACx6Eqpz-3" value="&lt;span style=&quot;text-align: right; text-wrap-mode: nowrap;&quot;&gt;\(\left[W_Q, W_K, W_V\right]=\left[\left[\ddots\right]_{D\times D} \quad \left[\ddots\right]_{D\times D} \quad \left[\ddots\right]_{D\times D}\right]\)&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="Sn_531WdLkp8ACx6Eqpz-5" vertex="1">
           <mxGeometry y="1.25" width="355" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4x_QPBp86d3RMzQ4KZyE-1" value="\(\in \mathbb{R}^{(N+1) \times&amp;nbsp; D}\)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="446.43" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
